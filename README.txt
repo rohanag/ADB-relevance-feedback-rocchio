@@ -48,11 +48,6 @@ After forming the updated query vector, we take the 2 highest weights from the u
 
 For the Ide-Dec Hi algorithm, The weights alpha, beta, gamma are all equal to 1, according to [2].
 
-Bing Search Key:---------------------------------------------------------------------
-
-Digvijay qhoA3ZNi3uIxUpjHcHBedrnxJ9O2LQ1QyzWJ2+Bmddg=
-Rohan 	tfXfeYcUCuEk1sgdW/1vUCRnKx5FTqg9eBwCO05Skvc=
-
 References:--------------------------------------------------------------------------
 
 1. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze: An Introduction to Information Retrieval, 2009

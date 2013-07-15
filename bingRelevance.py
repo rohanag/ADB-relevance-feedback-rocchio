@@ -73,7 +73,7 @@ while pre < precision:
 
     #Extracting web results from Bing using Bing Search API-Web Results only
     bingUrl = 'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query=%27'+query+'%27&$top=10&$format=json'
-    accountKey = str(key)#'qhoA3ZNi3uIxUpjHcHBedrnxJ9O2LQ1QyzWJ2+Bmddg='
+    accountKey = str(key)
     accountKeyEnc = base64.b64encode(accountKey + ':' + accountKey)
     headers = {'Authorization': 'Basic ' + accountKeyEnc}
     req = urllib2.Request(bingUrl, headers = headers)
