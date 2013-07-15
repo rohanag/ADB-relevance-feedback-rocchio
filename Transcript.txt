@@ -1,0 +1,254 @@
+==================================================
+Round: 1
+Query: bill
+Desired Precision: 0.9
+Result 1
+[
+URL http://www.bill.com/
+Title Business Bill pay | Accounts Payable & Online invoicing | Bill.com
+Summary Bill.com streamlines and automates your business bill payment, invoicing processes and gives you a complete visibility to your cash flow at any time
+]
+Relevant: YES
+
+Result 2
+[
+URL http://dictionary.reference.com/browse/bill
+Title Bill | Define Bill at Dictionary.com
+Summary noun 1. a statement of money owed for goods or services supplied: He paid the hotel bill when he checked out. 2. a piece of paper money worth a specified amount: a ...
+]
+Relevant: NO
+
+Result 3
+[
+URL http://en.wikipedia.org/wiki/Bill_(proposed_law)
+Title Bill (law) - Wikipedia, the free encyclopedia
+Summary A bill is a proposed law under consideration by a legislature. A bill does not become law until it is passed by the legislature and, in most cases, approved by the ...
+]
+Relevant: YES
+
+Result 4
+[
+URL http://en.wikipedia.org/wiki/Bill_Gates
+Title Bill Gates - Wikipedia, the free encyclopedia
+Summary William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+]
+Relevant: NO
+
+Result 5
+[
+URL http://www.billoreilly.com/
+Title Bill O'Reilly Official Home On The Web
+Summary BillOReilly.com is the home of Bill O'Reilly on the web.
+]
+Relevant: YES
+
+Result 6
+[
+URL http://www.thefreedictionary.com/bill
+Title bill - definition of bill by the Free Online Dictionary, Thesaurus ...
+Summary bill 1 (b l) n. 1. An itemized list or statement of fees or charges. 2. A statement or list of particulars, such as a theater program or menu. 3.
+]
+Relevant: NO
+
+Result 7
+[
+URL http://left4dead.wikia.com/wiki/Bill
+Title Bill - The Left 4 Dead Wiki - Left 4 Dead, Left 4 Dead 2 ...
+Summary William "Bill" Overbeck is one of the four playable Survivors in Left 4 Dead. He is a Vietnam...
+]
+Relevant: YES
+
+Result 8
+[
+URL http://en.wiktionary.org/wiki/bill
+Title bill - Wiktionary
+Summary Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th ...
+]
+Relevant: NO
+
+Result 9
+[
+URL http://www.thebill.com/
+Title The Bill - Home
+Summary Official site. News, plots, chat, merchandise and glimpses behind the scenes.
+]
+Relevant: YES
+
+Result 10
+[
+URL http://bulbapedia.bulbagarden.net/wiki/Bill
+Title Bill - Bulbapedia, the community-driven Pokémon encyclopedia
+Summary In the games. Bill is the talented and famous inventor. He invented the original Pokémon Storage System and Time Capsule. People, including himself, call him a ...
+]
+Relevant: NO
+
+Modified Search String: bill o'reilly invoicing
+==================================================
+Round: 2
+Query: bill o'reilly invoicing
+Desired Precision: 0.9
+Result 1
+[
+URL http://shop.oreilly.com/product/9780596804039.do
+Title QuickBooks 2010: The Missing Manual - O'Reilly Media
+Summary Comments about O'Reilly Media QuickBooks 2010: The Missing Manual: I recommend to my customers so they can use your book and not the manual. The book is easy to ready ...
+]
+Relevant: YES
+
+Result 2
+[
+URL http://www.billoreilly.com/b/How-can-I-return-an-item-to-The-OReilly-Store/612802674151132628.html?dest=/pg/jsp/help/helparticle.jsp
+Title Bill O'Reilly: Help Library - How can I return an item to The O ...
+Summary BillOReilly.com is the home of Bill O'Reilly on the web. ... If you have misplaced your packing slip, a copy of your order invoice can be ...
+]
+Relevant: NO
+
+Result 3
+[
+URL https://www.billoreilly.com/g/Shopping/509.html
+Title BillOReilly.com: Shopping
+Summary BillOReilly.com is the home of Bill O'Reilly on the web. ... If you have misplaced your packing slip a copy of your order invoice can be ...
+]
+Relevant: NO
+
+Result 4
+[
+URL http://www.newshounds.us/2011/11/04/bill_oreilly_cant_admit_he_was_wrong_about_the_16_muffins.php
+Title News Hounds: Bill O’Reilly Can’t Admit He Was Wrong About The ...
+Summary Bill O’Reilly Can’t Admit He Was Wrong About The $16 Muffins Reported by Ellen - ... that cited the $16 muffin as an instance of overspending, based on an invoice ...
+]
+Relevant: NO
+
+Result 5
+[
+URL http://gawker.com/5844958/jon-stewart-and-bill-oreilly-fight-over-taxes-muffins
+Title Jon Stewart and Bill O'Reilly Fight Over Taxes, Muffins
+Summary After Bill O'Reilly said last week that he'd consider quitting his job if President Obama ... the $16 muffins, since the hotel came out and said the IG misread the invoice, and ...
+]
+Relevant: NO
+
+Result 6
+[
+URL http://shop.oreilly.com/product/9780596522919.do
+Title QuickBooks 2009: The Missing Manual - O'Reilly Media
+Summary ... every offering of the missing manual series, this O'Reilly ... After the accounts are set up, and before a sales invoice ... For example, once a bill is recorded, the only way to ...
+]
+Relevant: NO
+
+Result 7
+[
+URL http://www.ebay.com/itm/Killing-Lincoln-The-Assassination-That-Changed-America-Forever-by-Bill-OReilly-/300618706728
+Title Killing Lincoln: The Assassination That Changed America Forever by ...
+Summary Bill O'Reilly, Martin Dugard: Publisher: Henry Holt & Co: ISBN-10: ... Please request an invoice for combined shipping. If you would like to ship ...
+]
+Relevant: NO
+
+Result 8
+[
+URL http://www.ebay.com/itm/The-No-Spin-Zone-HC-Bill-OReilly-NO-HOLDS-BARRED-/290374887507
+Title The No Spin Zone HC - Bill O'Reilly - NO HOLDS BARRED 0767908481 ...
+Summary The No Spin Zone HC - Bill O'Reilly - NO HOLDS BARRED in Books, Nonfiction | eBay ... Please ask for a payment amount and wait for us to invoice you, if you are ...
+]
+Relevant: NO
+
+Result 9
+[
+URL http://www.filetransit.com/files.php?name=Bill_Oreilly_Bill_Maher_Youtube
+Title Bill Oreilly Bill Maher Youtube Software - Star Bill of Lading ...
+Summary Bill Catchem's International Dialer let's you say goodbye to ... helps you to create Invoices in your Windows Desktop PC & bill your customers quickly & easily. -Invoice ...
+]
+Relevant: NO
+
+Result 10
+[
+URL http://crooksandliars.com/john-amato/jon-stewart-makes-bill-oreilly-cry-uncl
+Title Jon Stewart Makes Bill O'Reilly Cry Uncle on Taxing The Rich and ...
+Summary Jon Stewart had on Papa Bear, Bill O'Reilly, Wednesday on The Daily Show to ask him if he ... (Apparently, the invoice from the hotel listed the muffins, but also included was ...
+]
+Relevant: YES
+
+Modified Search String: bill o'reilly invoicing media bear
+==================================================
+Round: 3
+Query: bill o'reilly invoicing media bear
+Desired Precision: 0.9
+Result 1
+[
+URL http://www.billoreilly.com/
+Title Bill O'Reilly Official Home On The Web
+Summary BillOReilly.com is the home of Bill O'Reilly on the web.
+]
+Relevant: YES
+
+Result 2
+[
+URL http://en.wikipedia.org/wiki/Bill_O%27Reilly_(commentator)
+Title Bill O'Reilly (political commentator) - Wikipedia, the free ...
+Summary William James "Bill" O'Reilly, Jr. ... dress parody" of The O'Reilly Factor. On the show, Colbert refers to O'Reilly as "Papa Bear." ... are not true." O'Reilly said, "Media ...
+]
+Relevant: YES
+
+Result 3
+[
+URL http://www.foxnews.com/on-air/oreilly/index.html
+Title The O'Reilly Factor - Bill O'Reilly - Fox News
+Summary The O'Reilly Factor on FoxNews.com – with Bill O'Reilly, Weeknights at 8 PM and 11 PM EST ... Media Matters working with Eric Holder? Sep 18, 2012. 3 ...
+]
+Relevant: YES
+
+Result 4
+[
+URL http://www.huffingtonpost.com/2011/07/26/bill-oreilly-media-breivik-christian_n_909498.html
+Title Bill O'Reilly: Media Labeling Norway Killer Breivik 'Christian ...
+Summary Bill O'Reilly sternly criticized the media for describing Anders Behring-Breivik, the man who has admitted to committing the mass killings in Norway, as a ...
+]
+Relevant: YES
+
+Result 5
+[
+URL http://www.huffingtonpost.com/2012/10/01/stephen-colbert-bill-oreilly-oprah_n_1929266.html
+Title Stephen Colbert: Bill O'Reilly Inspired My Character (VIDEO)
+Summary Bill O'Reilly was a major source of ... weeks running... he's papa bear ... 35 Most Powerful People In Media" - Arrivals. NEW YORK, NY - APRIL 11: Bill O'Reilly ...
+]
+Relevant: YES
+
+Result 6
+[
+URL http://www.colbertnation.com/the-colbert-report-videos/81003/january-18-2007/bill-o-reilly
+Title Bill O'Reilly - The Colbert Report - 2007-18-01 - Video Clip ...
+Summary Stephen finally gets to sit at the foot of the master, Papa Bear Bill O'Reilly. ... Brian Williams, Sean Hannity, books, media
+]
+Relevant: YES
+
+Result 7
+[
+URL http://abcnews.go.com/US/story?id=3649826&page=1
+Title O'Reilly Said Media Reaction 'Fabricated Racial Controversy' - ABC ...
+Summary O'Reilly Said Media Reaction 'Fabricated Racial Controversy' ... Radio and TV commentator Bill O'Reilly said Wednesday that reaction to his comments he ...
+]
+Relevant: YES
+
+Result 8
+[
+URL http://crooksandliars.com/john-amato/jon-stewart-makes-bill-oreilly-cry-uncl
+Title Jon Stewart Makes Bill O'Reilly Cry Uncle on Taxing The Rich and ...
+Summary Jon Stewart had on Papa Bear, Bill O'Reilly, Wednesday on The ... (Apparently, the invoice from the hotel listed the ... republicans, the corporate elites, and their media.
+]
+Relevant: YES
+
+Result 9
+[
+URL http://shop.oreilly.com/product/9780596804039.do
+Title QuickBooks 2010: The Missing Manual - O'Reilly Media
+Summary Comments about O'Reilly Media QuickBooks 2010: The Missing Manual: I recommend to my customers so they can use your book and not the manual. The book is easy to ready ...
+]
+Relevant: YES
+
+Result 10
+[
+URL http://www.rawstory.com/rs/2012/10/01/colbert-my-character-is-a-mix-of-oreilly-cooper-and-geraldo/
+Title Colbert: My character is a mix of O’Reilly, Cooper and Geraldo ...
+Summary Media; Raw Meat; Pandagon; Culture Clutch ... an attempt “to do a pundit show like Bill O’Reilly ... his stories, and his on-air “Papa Bear,” O’Reilly.
+]
+Relevant: YES
+

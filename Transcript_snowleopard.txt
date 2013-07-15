@@ -1,0 +1,169 @@
+==================================================
+Round: 1
+Query: snow leopard
+Desired Precision: 0.9
+Result 1
+[
+URL http://en.wikipedia.org/wiki/Uncia_(genus)
+Title Snow leopard - Wikipedia, the free encyclopedia
+Summary The snow leopard (Panthera uncia or Uncia uncia) is a moderately large cat native to the mountain ranges of Central Asia. The classification of this species has been ...
+]
+Relevant: NO
+
+Result 2
+[
+URL http://www.apple.com/osx/
+Title Apple - OS X Mountain Lion - Move your Mac even further ahead.
+Summary OS X Mountain Lion makes the Mac even better. And with so many new features, now the Mac works even better with iPhone, iPad, and iPod touch.
+]
+Relevant: YES
+
+Result 3
+[
+URL http://animals.nationalgeographic.com/animals/mammals/snow-leopard/
+Title Snow Leopards, Snow Leopard Pictures, Snow Leopard Facts ...
+Summary Native to the Central Asian mountains, the snow leopard is a rare sight, with only about 6,000 left in the wild. They are hunted for their beautiful, warm fur and for ...
+]
+Relevant: NO
+
+Result 4
+[
+URL http://www.amazon.com/s?ie=UTF8&keywords=snow%20leopard&page=1&rh=n%3A1036592%2Ck%3Asnow%20leopard
+Title Amazon.com: snow leopard - Clothing & Accessories
+Summary Outer Rebel Fashion Deluxe Animal Hats with Attached Scarf & Mittens- Snow Leopard
+]
+Relevant: NO
+
+Result 5
+[
+URL http://www.snowleopard.org/
+Title Snow Leopard Trust | Saving Snow Leopards
+Summary Located in Seattle, they work to protect the endangered snow leopard and its Central Asian habitat.
+]
+Relevant: NO
+
+Result 6
+[
+URL http://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard
+Title Mac OS X Snow Leopard - Wikipedia, the free encyclopedia
+Summary Mac OS X Snow Leopard (version 10.6) is the seventh major release of Mac OS X, Apple's desktop and server operating system for Macintosh computers. Snow Leopard was ...
+]
+Relevant: YES
+
+Result 7
+[
+URL http://www.ebay.com/sch/i.html?_nkw=snow+leopard
+Title snow leopard | eBay - Electronics, Cars, Fashion, Collectibles ...
+Summary Find snow leopard from a vast selection of Operating Systems. Shop eBay!
+]
+Relevant: YES
+
+Result 8
+[
+URL http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Asnow%20leopard
+Title Amazon.com: snow leopard
+Summary Office Mac Home and Student 2011 - Family Pack (1 User/3 Installs) [Download] by Microsoft (Software Download - Oct. 26, 2010) - Mac OS X 10.5 Leopard / 10.6 Snow ...
+]
+Relevant: YES
+
+Result 9
+[
+URL http://store.apple.com/us/search?find=mac+os+x+10.6+snow+leopard
+Title Snow Leopard
+Summary 
+]
+Relevant: YES
+
+Result 10
+[
+URL http://www.sandiegozoo.org/animalbytes/t-snow_leopard.html
+Title San Diego Zoo's Animal Bytes: Snow Leopard
+Summary Get fun and interesting snow leopard facts in an easy-to-read style from the San Diego Zoo's Animal Bytes. Buy tickets online and plan a visit to the Zoo or Safari Park.
+]
+Relevant: NO
+
+Modified Search String: snow leopard mac os
+==================================================
+Round: 2
+Query: snow leopard mac os
+Desired Precision: 0.9
+Result 1
+[
+URL http://www.apple.com/support/snowleopard/
+Title Apple - Support - Snow Leopard
+Summary Welcome to Snow Leopard Support. Choose a topic from the left to ... Extend coverage for your Mac to three years of service ... the new features and find out how to upgrade to OS X ...
+]
+Relevant: YES
+
+Result 2
+[
+URL http://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard
+Title Mac OS X Snow Leopard - Wikipedia, the free encyclopedia
+Summary Mac OS X Snow Leopard (version 10.6) is the seventh major release of Mac OS X, Apple's desktop and server operating system for Macintosh computers. Snow Leopard was ...
+]
+Relevant: YES
+
+Result 3
+[
+URL http://www.apple.com/osx/
+Title Apple - OS X Mountain Lion - Move your Mac even further ahead.
+Summary OS X Mountain Lion makes the Mac even better. And with so many new features, now the Mac works even better with iPhone, iPad, and iPod touch.
+]
+Relevant: YES
+
+Result 4
+[
+URL http://store.apple.com/us/search?find=mac+os+x+10.6+snow+leopard
+Title Snow Leopard
+Summary 
+]
+Relevant: YES
+
+Result 5
+[
+URL http://www.store.apple.com/us/product/MAC_OS_X_SNGL
+Title Apple Store
+Summary 
+]
+Relevant: YES
+
+Result 6
+[
+URL http://www.amazon.com/Mac-version-10-6-3-Snow-Leopard/dp/B001AMHWP8
+Title Amazon.com: Mac OS X version 10.6.3 Snow Leopard: Software
+Summary Mac OS X Snow Leopard is an even more powerful and refined version of the world’s most advanced operating system. In ways big and small, it gets faster, more ...
+]
+Relevant: YES
+
+Result 7
+[
+URL http://www.ebay.com/sch/i.html?_nkw=mac+os+x+snow+leopard
+Title mac os x snow leopard | eBay - Electronics, Cars, Fashion ...
+Summary Find mac os x snow leopard from a vast selection of Operating Systems. Shop eBay!
+]
+Relevant: YES
+
+Result 8
+[
+URL http://www.cnet.com/mac-os-x-snow-leopard/
+Title Mac OS X - Apple Mac Lion and Snow Leopard reviews and news - CNET.com
+Summary CNET's comprehensive Mac OS X Lion and OS X Snow Leopard coverage: Get in-depth analysis of Lion's new features, how much it will cost you, what you'll ...
+]
+Relevant: YES
+
+Result 9
+[
+URL http://www.gosale.com/4980799/mac-os-x-1063-snow-leopard
+Title Mac OS X 10.6.3 Snow Leopard on sale for $99.77
+Summary On sale at 10 deals for the Mac OS X 10.6.3 Snow Leopard at GoSale for just $110.99 if you buy today. Shop for bargains on the Apple OS 10.6.3.
+]
+Relevant: YES
+
+Result 10
+[
+URL http://en.wikipedia.org/wiki/Mac_leopard
+Title Mac OS X Leopard - Wikipedia, the free encyclopedia
+Summary Since Apple moved to using Intel processors in their computers, the OSx86 project has developed and now also allows Mac OS X Tiger, Leopard, and Snow Leopard to be ...
+]
+Relevant: YES
+

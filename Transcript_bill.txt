@@ -1,0 +1,169 @@
+==================================================
+Round: 1
+Query: 'bill'
+Desired Precision: 0.9
+Result 1
+[
+URL http://www.bill.com/
+Title Business Bill pay | Accounts Payable & Online invoicing | Bill.com
+Summary Bill.com streamlines and automates your business bill payment, invoicing processes and gives you a complete visibility to your cash flow at any time
+]
+Relevant: NO
+
+Result 2
+[
+URL http://dictionary.reference.com/browse/bill
+Title Bill | Define Bill at Dictionary.com
+Summary noun 1. a statement of money owed for goods or services supplied: He paid the hotel bill when he checked out. 2. a piece of paper money worth a specified amount: a ...
+]
+Relevant: NO
+
+Result 3
+[
+URL http://en.wikipedia.org/wiki/Bill_Gates
+Title Bill Gates - Wikipedia, the free encyclopedia
+Summary William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+]
+Relevant: YES
+
+Result 4
+[
+URL http://en.wikipedia.org/wiki/Bill_(proposed_law)
+Title Bill (law) - Wikipedia, the free encyclopedia
+Summary A bill is a proposed law under consideration by a legislature. A bill does not become law until it is passed by the legislature and, in most cases, approved by the ...
+]
+Relevant: NO
+
+Result 5
+[
+URL http://www.billoreilly.com/
+Title Bill O'Reilly Official Home On The Web
+Summary BillOReilly.com is the home of Bill O'Reilly on the web.
+]
+Relevant: NO
+
+Result 6
+[
+URL http://www.thefreedictionary.com/bill
+Title bill - definition of bill by the Free Online Dictionary, Thesaurus ...
+Summary bill 1 (b l) n. 1. An itemized list or statement of fees or charges. 2. A statement or list of particulars, such as a theater program or menu. 3.
+]
+Relevant: NO
+
+Result 7
+[
+URL http://www.thebill.com/
+Title The Bill - Home
+Summary Official site. News, plots, chat, merchandise and glimpses behind the scenes.
+]
+Relevant: NO
+
+Result 8
+[
+URL http://left4dead.wikia.com/wiki/Bill
+Title Bill - The Left 4 Dead Wiki - Left 4 Dead, Left 4 Dead 2 ...
+Summary William "Bill" Overbeck is one of the four playable Survivors in Left 4 Dead. He is a Vietnam...
+]
+Relevant: NO
+
+Result 9
+[
+URL http://espn.go.com/mens-college-basketball/story/_/id/8436300/kansas-jayhawks-sign-coach-bill-self-39-million-annually-2021-22
+Title Kansas Jayhawks sign coach Bill Self for $3.9 million annually ...
+Summary LAWRENCE, Kan. -- Bill Self could be roaming the sideline at Allen Fieldhouse well into the next decade. The Kansas basketball coach agreed to a ...
+]
+Relevant: NO
+
+Result 10
+[
+URL http://en.wiktionary.org/wiki/bill
+Title bill - Wiktionary
+Summary Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th ...
+]
+Relevant: NO
+
+Modified Search String: 'bill' gates chairman
+==================================================
+Round: 2
+Query: 'bill' gates chairman
+Desired Precision: 0.9
+Result 1
+[
+URL http://www.microsoft.com/en-us/news/exec/billg/
+Title Bill Gates: Chairman - Microsoft Corporation: Software ...
+Summary Updated: Aug. 3, 2011. William (Bill) H. Gates is chairman of Microsoft Corporation, the worldwide leader in software, services and solutions that help ...
+]
+Relevant: YES
+
+Result 2
+[
+URL http://en.wikipedia.org/wiki/Gate_bill
+Title Bill Gates - Wikipedia, the free encyclopedia
+Summary William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+]
+Relevant: YES
+
+Result 3
+[
+URL http://inventors.about.com/od/gstartinventors/a/Bill_Gates.htm
+Title Bill Gates - Biography and History of the Microsoft Chairman
+Summary A biography of Bill Gates - the founder of Microsoft. ... Bill Gates - Biography and History Bill Gates was the founder and first chairmen of Microsoft.
+]
+Relevant: YES
+
+Result 4
+[
+URL http://www.studymode.com/essays/Bill-Gates-1105339.html
+Title Bill Gates - Research Paper - Siddhanath
+Summary ...CEO, chairman, cofounder, and owner of 147 billion shares of Microsoft is Bill... 4 pagesOct 1999. Bill Gates: Biography...Chairman and Chief Executive ...
+]
+Relevant: YES
+
+Result 5
+[
+URL http://www.microsoft.com/en-us/news/press/2006/jun06/06-15CorpNewsPR.aspx
+Title Microsoft Announces Plans for July 2008 Transition for Bill Gates
+Summary REDMOND, Wash. — June 15, 2006 — Microsoft Corp. today announced that effective July 2008 Bill Gates, chairman, will transition out of a day-to-day role in the ...
+]
+Relevant: YES
+
+Result 6
+[
+URL http://www.gatesfoundation.org/leadership/Pages/bill-gates.aspx
+Title Bill Gates – Bill & Melinda Gates Foundation
+Summary Bill Gates is co-chair of the Bill & Melinda Gates Foundation. Along with co-chair ... As chief software architect and chairman, Gates led the company to become the worldwide ...
+]
+Relevant: YES
+
+Result 7
+[
+URL http://www.zdnet.com/blog/microsoft/microsoft-chairman-bill-gates-to-take-the-stand-in-novell-microsoft-trial/11246
+Title Microsoft Chairman Bill Gates to take the stand in Novell ...
+Summary This week, Microsoft Chairman Bill Gates is slated to take the stand as a witness for Microsoft in the ongoing Novell Microsoft antitrust trial. Yawn. The ...
+]
+Relevant: YES
+
+Result 8
+[
+URL https://sites.google.com/site/maruguj3/success-stories/billgateschairmanofmicrosoft
+Title Bill Gates (Chairman of Microsoft) - :: MaruGujarat :: GPSC,UPSC ...
+Summary Bill Gates (Chairman of Microsoft) Bill Gates was born on October 28, 1955 in a family having rich business, political and community service ...
+]
+Relevant: YES
+
+Result 9
+[
+URL http://allthingsd.com/20080527/gates_ballmer/
+Title Microsoft Chairman Bill Gates, CEO Steve Ballmer and Windows 7 ...
+Summary With Microsoft Chairman Bill Gates soon relinquishing his daily role at the software company he co-founded as it grapples with Google, European regulators, Yahoo and ...
+]
+Relevant: YES
+
+Result 10
+[
+URL http://www.bbc.co.uk/news/world-us-canada-19652594
+Title BBC News - Bill Gates tops Forbes rich list for 19th year
+Summary Bill Gates, co-founder and chairman of Microsoft, $66bn; Warren Buffett, chairman and chief executive of Berkshire Hathaway, $46bn; Larry Ellison, co-founder and chief ...
+]
+Relevant: YES
+

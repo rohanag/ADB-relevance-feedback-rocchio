@@ -1,0 +1,169 @@
+==================================================
+Round: 1
+Query: gates
+Desired Precision: 0.9
+Result 1
+[
+URL http://gates.com/
+Title Powering Progress™ in belts, hose & hydraulics
+Summary Gates Corporation is Powering Progress™ in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+]
+Relevant: NO
+
+Result 2
+[
+URL http://www.gates.com/?location_id=542
+Title Gates Snowmobile & ATV - Powering Progress™ in belts, hose ...
+Summary Gates Corporation is Powering Progress™ in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+]
+Relevant: NO
+
+Result 3
+[
+URL http://en.wikipedia.org/wiki/Bill_Gates
+Title Bill Gates - Wikipedia, the free encyclopedia
+Summary William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate and philanthropist. Gates is the former chief executive and current ...
+]
+Relevant: YES
+
+Result 4
+[
+URL http://news.yahoo.com/gates-windows-8-system-very-exciting-161811335--finance.html
+Title Gates: New Windows 8 system is 'very exciting' - Yahoo! News
+Summary NEW YORK (AP) — Microsoft founder Bill Gates on Thursday called the new Windows 8 operating system scheduled for release next month "a very exciting new product ...
+]
+Relevant: YES
+
+Result 5
+[
+URL http://www.gatesfoundation.org/Pages/home.aspx
+Title Bill & Melinda Gates Foundation
+Summary Global Luminaries Issue Urgent Call for Polio-Free World Read Bill Gates' speech at the UN Event
+]
+Relevant: NO
+
+Result 6
+[
+URL http://en.wikipedia.org/wiki/Robert_Gates
+Title Robert Gates - Wikipedia, the free encyclopedia
+Summary Robert Michael Gates (born September 25, 1943) is a retired civil servant and university president who served as the 22nd United States Secretary of Defense from 2006 ...
+]
+Relevant: NO
+
+Result 7
+[
+URL http://www.gatesbbq.com/
+Title Gates Bar B.Q.
+Summary Offers BBQ ribs and other meats. Recipes, online sales of BBQ sauces and spices, and a history of the chain. Locations in Kansas and Missouri, United States.
+]
+Relevant: NO
+
+Result 8
+[
+URL http://www.gatesinc.com/
+Title GATES, Florida construction, development, brokerage, leasing ...
+Summary Gates, Inc. - Providing South Florida construction, development, brokerage, leasing, and property management services.
+]
+Relevant: NO
+
+Result 9
+[
+URL http://www.microsoft.com/en-us/news/exec/billg/
+Title Bill Gates: Chairman - Microsoft Corporation: Software ...
+Summary Updated: Aug. 3, 2011. William (Bill) H. Gates is chairman of Microsoft Corporation, the worldwide leader in software, services and solutions that help ...
+]
+Relevant: YES
+
+Result 10
+[
+URL http://money.cnn.com/2012/09/27/pf/college/gates-college-apps/index.html
+Title Gates Foundation awarding up to $100,000 grants for college apps ...
+Summary NEW YORK (CNNMoney) -- The Bill and Melinda Gates Foundation is launching a competition today that will award up to 30 grants of $50,000 to $100,000 to ...
+]
+Relevant: NO
+
+Modified Search String: gates chairman bill
+==================================================
+Round: 2
+Query: gates chairman bill
+Desired Precision: 0.9
+Result 1
+[
+URL http://www.microsoft.com/en-us/news/exec/billg/
+Title Bill Gates: Chairman - Microsoft Corporation: Software ...
+Summary Updated: Aug. 3, 2011. William (Bill) H. Gates is chairman of Microsoft Corporation, the worldwide leader in software, services and solutions that help ...
+]
+Relevant: YES
+
+Result 2
+[
+URL http://en.wikipedia.org/wiki/Bill_Gates
+Title Bill Gates - Wikipedia, the free encyclopedia
+Summary Co-founder and Chairman of Microsoft Co-Chair of the Bill & Melinda Gates Foundation ... William Henry "Bill" Gates III (born October 28, 1955) is ...
+]
+Relevant: YES
+
+Result 3
+[
+URL http://www.gatesfoundation.org/leadership/Pages/bill-gates.aspx
+Title Bill Gates – Bill & Melinda Gates Foundation
+Summary Bill Gates is co-chair of the Bill & Melinda Gates Foundation. Along with co-chair ... As chief software architect and chairman, Gates led the company to become the worldwide ...
+]
+Relevant: YES
+
+Result 4
+[
+URL http://allthingsd.com/20080527/gates_ballmer/
+Title Microsoft Chairman Bill Gates, CEO Steve Ballmer and Windows 7 ...
+Summary With Microsoft Chairman Bill Gates soon relinquishing his daily role at the software company he co-founded as it grapples with Google, European regulators, Yahoo and ...
+]
+Relevant: YES
+
+Result 5
+[
+URL https://sites.google.com/site/maruguj3/success-stories/billgateschairmanofmicrosoft
+Title Bill Gates (Chairman of Microsoft) - :: MaruGujarat :: GPSC,UPSC ...
+Summary Bill Gates (Chairman of Microsoft) Bill Gates was born on October 28, 1955 in a family having rich business, political and community service ...
+]
+Relevant: YES
+
+Result 6
+[
+URL http://www.zdnet.com/blog/microsoft/microsoft-chairman-bill-gates-to-take-the-stand-in-novell-microsoft-trial/11246
+Title Microsoft Chairman Bill Gates to take the stand in Novell ...
+Summary This week, Microsoft Chairman Bill Gates is slated to take the stand as a witness for Microsoft in the ongoing Novell Microsoft antitrust trial. Yawn. The ...
+]
+Relevant: YES
+
+Result 7
+[
+URL http://www.msnbc.msn.com/id/13348456/ns/business-us_business/t/bill-gates-transition-away-microsoft/
+Title Bill Gates plans to step back from Microsoft - Business - US ...
+Summary REDMOND, Wash. — Microsoft Corp. Chairman Bill Gates announced Thursday he will transition away from a daily role at the software company he co-founded ...
+]
+Relevant: YES
+
+Result 8
+[
+URL http://www.microsoft.com/en-us/news/press/2006/jun06/06-15CorpNewsPR.aspx
+Title Microsoft Announces Plans for July 2008 Transition for Bill Gates
+Summary REDMOND, Wash. — June 15, 2006 — Microsoft Corp. today announced that effective July 2008 Bill Gates, chairman, will transition out of a day-to-day role in the ...
+]
+Relevant: YES
+
+Result 9
+[
+URL http://inventors.about.com/od/gstartinventors/a/Bill_Gates.htm
+Title Bill Gates - Biography and History of the Microsoft Chairman
+Summary A biography of Bill Gates - the founder of Microsoft. ... Bill Gates - Biography and History Bill Gates was the founder and first chairmen of Microsoft.
+]
+Relevant: YES
+
+Result 10
+[
+URL http://successshiva.blogspot.com/2011/11/bill-gates-chairman-and-chief-software.html
+Title SUCCESS SHIVA: Microsoft:Bill Gates- Chairman and Chief Software ...
+Summary “We've really achieved the ideal of what I wanted Microsoft to become.” Bill Gates an icon of software industry, incredible genius ideologist, world ...
+]
+Relevant: YES
+
